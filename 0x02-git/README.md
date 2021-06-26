@@ -1,1 +1,1 @@
-This is a git folder
+This is 0x02-git folder
